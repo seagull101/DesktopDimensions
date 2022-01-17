@@ -1,0 +1,17 @@
+C:\Users\bassa\source\repos\seagull101\DesktopDimensions\DesktopDimensions\bin\Debug\net6.0-windows\DesktopDimensions.exe
+C:\Users\bassa\Source\Repos\seagull101\DesktopDimensions\DesktopDimensions\bin\Debug\net6.0-windows\DesktopDimensions.deps.json
+C:\Users\bassa\Source\Repos\seagull101\DesktopDimensions\DesktopDimensions\bin\Debug\net6.0-windows\DesktopDimensions.runtimeconfig.json
+C:\Users\bassa\source\repos\seagull101\DesktopDimensions\DesktopDimensions\bin\Debug\net6.0-windows\DesktopDimensions.dll
+C:\Users\bassa\Source\Repos\seagull101\DesktopDimensions\DesktopDimensions\bin\Debug\net6.0-windows\ref\DesktopDimensions.dll
+C:\Users\bassa\source\repos\seagull101\DesktopDimensions\DesktopDimensions\bin\Debug\net6.0-windows\DesktopDimensions.pdb
+C:\Users\bassa\source\repos\seagull101\DesktopDimensions\DesktopDimensions\obj\Debug\net6.0-windows\DesktopDimensions.csproj.AssemblyReference.cache
+C:\Users\bassa\source\repos\seagull101\DesktopDimensions\DesktopDimensions\obj\Debug\net6.0-windows\DesktopDimensions.Form1.resources
+C:\Users\bassa\source\repos\seagull101\DesktopDimensions\DesktopDimensions\obj\Debug\net6.0-windows\DesktopDimensions.csproj.GenerateResource.cache
+C:\Users\bassa\source\repos\seagull101\DesktopDimensions\DesktopDimensions\obj\Debug\net6.0-windows\DesktopDimensions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bassa\source\repos\seagull101\DesktopDimensions\DesktopDimensions\obj\Debug\net6.0-windows\DesktopDimensions.AssemblyInfoInputs.cache
+C:\Users\bassa\source\repos\seagull101\DesktopDimensions\DesktopDimensions\obj\Debug\net6.0-windows\DesktopDimensions.AssemblyInfo.cs
+C:\Users\bassa\source\repos\seagull101\DesktopDimensions\DesktopDimensions\obj\Debug\net6.0-windows\DesktopDimensions.csproj.CoreCompileInputs.cache
+C:\Users\bassa\source\repos\seagull101\DesktopDimensions\DesktopDimensions\obj\Debug\net6.0-windows\DesktopDimensions.dll
+C:\Users\bassa\source\repos\seagull101\DesktopDimensions\DesktopDimensions\obj\Debug\net6.0-windows\ref\DesktopDimensions.dll
+C:\Users\bassa\source\repos\seagull101\DesktopDimensions\DesktopDimensions\obj\Debug\net6.0-windows\DesktopDimensions.pdb
+C:\Users\bassa\Source\Repos\seagull101\DesktopDimensions\DesktopDimensions\obj\Debug\net6.0-windows\DesktopDimensions.genruntimeconfig.cache
